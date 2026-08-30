@@ -1,0 +1,19 @@
+DBNet++ OCR Standardized Result for image_2 (img01_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: 08 NOS
+Line 2: FUZE A/R MINE A/T
+Line 3: 2B/L ND
+Line 4: 2025 12/SU 43C/BL
+Line 5: IN 08 7A BOXES
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.75] Raw: 08 X0S
+Line 2 [Conf: 0.87] Raw: FUZE A/R YINEA/T
+Line 3 [Conf: 0.84] Raw: 2B/L XI)
+Line 4 [Conf: 0.86] Raw: 2025 12/SU 43C/BL
+Line 5 [Conf: 0.77] Raw: IN 08 7A B0XES

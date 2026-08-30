@@ -1,0 +1,21 @@
+DBNet++ OCR Standardized Result for image_12 (img11_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: OFE 2025 AINN
+Line 3: 161.10
+Line 4: CAD PULGAON
+Line 5: COMMANDANT TO FUZE 117 BOX NO-0
+Line 6: SSVNAV
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.94] Raw: BOX_TURN TOP
+Line 2 [Conf: 0.88] Raw: OFE 2025 AINN
+Line 3 [Conf: 0.72] Raw: 161.10
+Line 4 [Conf: 0.76] Raw: CADPULGAON (0)
+Line 5 [Conf: 0.82] Raw: COMMANDANT TO FUZE I17 BOXNO-0
+Line 6 [Conf: 0.72] Raw: SSVNAV

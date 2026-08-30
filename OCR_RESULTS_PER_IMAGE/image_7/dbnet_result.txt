@@ -1,0 +1,15 @@
+DBNet++ OCR Standardized Result for image_7 (img06_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: 10 FUZES 117 MK-20
+Line 2: LOT 2025 11/HPM 16/BL
+Line 3: IN 10 AMN CONTS 47B
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.71] Raw: 10 FUZS 117 MK-20
+Line 2 [Conf: 0.91] Raw: L0T 2025II/HPM IG/BL
+Line 3 [Conf: 0.90] Raw: IN 1O AMN CONTS 47B

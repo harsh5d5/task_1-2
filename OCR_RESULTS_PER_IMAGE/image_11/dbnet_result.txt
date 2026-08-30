@@ -1,0 +1,21 @@
+DBNet++ OCR Standardized Result for image_11 (img10_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: 1O-ONXOEI
+Line 3: UNIV CGM FROM
+Line 4: FUZE 117
+Line 5: TO
+Line 6: AYNASS KG-IB.70 CAD PULGAON COMMANDANT
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.95] Raw: BOX TURN TOP
+Line 2 [Conf: 0.72] Raw: 1O-ONXOEI
+Line 3 [Conf: 0.73] Raw: UNIV CGM FRO:I
+Line 4 [Conf: 0.78] Raw: FUZE I17
+Line 5 [Conf: 0.69] Raw: TO
+Line 6 [Conf: 0.92] Raw: AYNASS KG-IB.70 CADPULGAON COMMANDANT

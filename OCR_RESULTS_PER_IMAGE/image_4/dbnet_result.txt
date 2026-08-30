@@ -1,0 +1,15 @@
+DBNet++ OCR Standardized Result for image_4 (img03_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: FAD
+Line 2: 10 FUZES 117
+Line 3: MK-20
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.71] Raw: FAD
+Line 2 [Conf: 0.77] Raw: 10 FUZESI1 7
+Line 3 [Conf: 0.85] Raw: M1K-20

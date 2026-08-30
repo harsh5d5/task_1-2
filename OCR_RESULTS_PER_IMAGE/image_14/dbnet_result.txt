@@ -1,0 +1,21 @@
+DBNet++ OCR Standardized Result for image_14 (img13_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: 10-ONX08I
+Line 3: UNIV OFBL FROM
+Line 4: FUZE 117
+Line 5: TO
+Line 6: APNASS KG-48.70 CAD PULGAON COMMANDANT
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.96] Raw: BOX_TURN /TOP
+Line 2 [Conf: 0.65] Raw: 10-ONX08I
+Line 3 [Conf: 0.84] Raw: UNIV OFBL FRON
+Line 4 [Conf: 0.84] Raw: FUZE I7
+Line 5 [Conf: 0.72] Raw: TO
+Line 6 [Conf: 0.88] Raw: APNASS KG-48.70 CADPULGAON COMMANDANT

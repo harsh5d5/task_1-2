@@ -1,0 +1,21 @@
+DBNet++ OCR Standardized Result for image_13 (img12_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: 10-Ox x081
+Line 3: UNIV 161.10 CGM FROM
+Line 4: FUZE 117
+Line 5: T()
+Line 6: AV MASS KG-18.70 CAD PULGAON COMMANDANT
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.94] Raw: BOX_TURN /TOP
+Line 2 [Conf: 0.66] Raw: 10-Ox x081
+Line 3 [Conf: 0.84] Raw: UNIV 161.10 CGM FRON
+Line 4 [Conf: 0.71] Raw: 7 FUZE I7
+Line 5 [Conf: 0.95] Raw: T()
+Line 6 [Conf: 0.92] Raw: AVNASS KG-IB.70 CADPULGAON COMMANDANT

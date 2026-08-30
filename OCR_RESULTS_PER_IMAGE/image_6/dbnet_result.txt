@@ -1,0 +1,17 @@
+DBNet++ OCR Standardized Result for image_6 (img05_raw.jpg)
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+---------------------------------------------
+Line 1: B0)XN()- 107
+Line 2: UNIV OFBL FROM
+Line 3: 10 FUZES 117
+Line 4: VNASSKG-18.70 CAD PULGAON COMMA NDANT
+
+============================================================
+[CONFIDENCE & RAW DETECTIONS]:
+---------------------------------------------
+Line 1 [Conf: 0.85] Raw: B0)XN()- 107
+Line 2 [Conf: 0.85] Raw: UXIV OFBL FROM
+Line 3 [Conf: 0.69] Raw: ug117 FUZE 11 7
+Line 4 [Conf: 0.89] Raw: ΛVNASSKG-18.70 CADPULGAON COMMA NDANT

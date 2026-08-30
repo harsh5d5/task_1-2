@@ -2,8 +2,9 @@ import os
 import glob
 import json
 import cv2
-from src.preprocessor import preprocess_image
-from src.detector import ContainerTextDetector
+from .preprocessor import preprocess_image
+from .detector import ContainerTextDetector
+from .nomenclature_cleaner import clean_and_correct_text
 
 def run_pipeline(input_dir="datasets/raw_images", output_dir="results"):
     os.makedirs(output_dir, exist_ok=True)

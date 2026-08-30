@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from rapidocr_onnxruntime import RapidOCR
-from src.nomenclature_cleaner import clean_and_correct_text
+from .nomenclature_cleaner import clean_and_correct_text
 
 class ContainerTextDetector:
     def __init__(self):

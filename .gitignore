@@ -31,16 +31,13 @@ wheels/
 *.bin
 *.weights
 
-# Raw dataset, input media & local prediction output folders
+# Raw dataset and heavy binary archives
 **/data/raw_images/
 **/data/coco_dataset/
 **/datasets/raw_images/
 **/datasets/
 **/data/
 **/outputs/predictions/*.jpg
-OCR_RESULTS_PER_IMAGE/
-results/
-OCR/results/
 *.zip
 *.tar
 *.gz
