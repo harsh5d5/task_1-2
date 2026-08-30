@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch large model weights (> 100MB cannot be pushed to GitHub without Git LFS)
+*.pth
+*.pt
+*.onnx
+*.bin
+*.weights
+
+# Raw dataset, input media & large prediction dumps (Excluded as requested)
+**/data/raw_images/
+**/data/coco_dataset/
+**/datasets/raw_images/
+**/datasets/
+**/data/
+**/outputs/predictions/*.jpg
+*.zip
+*.tar
+*.gz
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
