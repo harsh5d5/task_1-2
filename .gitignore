@@ -24,20 +24,12 @@ wheels/
 .installed.cfg
 *.egg
 
-# PyTorch large model weights (> 100MB cannot be pushed to GitHub without Git LFS)
-*.pth
-*.pt
-*.onnx
-*.bin
-*.weights
-
 # Raw dataset and heavy binary archives
 **/data/raw_images/
 **/data/coco_dataset/
 **/datasets/raw_images/
 **/datasets/
 **/data/
-**/outputs/predictions/*.jpg
 *.zip
 *.tar
 *.gz
