@@ -1,0 +1,78 @@
+{
+  "image_file": "img11_raw.jpg",
+  "total_lines": 6,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "BOX_TURN TOP",
+      "raw_detected": "BOX_TURN TOP",
+      "box_2d": [
+        0,
+        1,
+        33,
+        248
+      ],
+      "confidence": 0.936
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "OFE 2025 AINN",
+      "raw_detected": "OFE 2025 AINN",
+      "box_2d": [
+        451,
+        770,
+        520,
+        1234
+      ],
+      "confidence": 0.881
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "161.10",
+      "raw_detected": "161.10",
+      "box_2d": [
+        497,
+        1160,
+        527,
+        1230
+      ],
+      "confidence": 0.725
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "CAD PULGAON",
+      "raw_detected": "CADPULGAON (0)",
+      "box_2d": [
+        515,
+        503,
+        553,
+        1232
+      ],
+      "confidence": 0.758
+    },
+    {
+      "line_number": 5,
+      "standardized_text": "COMMANDANT TO FUZE 117 BOX NO-0",
+      "raw_detected": "COMMANDANT TO FUZE I17 BOXNO-0",
+      "box_2d": [
+        479,
+        512,
+        672,
+        1337
+      ],
+      "confidence": 0.824
+    },
+    {
+      "line_number": 6,
+      "standardized_text": "SSVNAV",
+      "raw_detected": "SSVNAV",
+      "box_2d": [
+        578,
+        482,
+        726,
+        529
+      ],
+      "confidence": 0.724
+    }
+  ]
+}

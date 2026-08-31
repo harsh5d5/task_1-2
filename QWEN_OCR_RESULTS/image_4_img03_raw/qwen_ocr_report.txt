@@ -1,0 +1,15 @@
+Military Stencil OCR Report: img03_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: FAD
+Line 2: 10 FUZES 117
+Line 3: MK-20
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'FAD' | Raw: 'FAD'
+Line 2: Standard: '10 FUZES 117' | Raw: '10 FUZESI1 7'
+Line 3: Standard: 'MK-20' | Raw: 'M1K-20'

@@ -1,0 +1,19 @@
+Military Stencil OCR Report: img04_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: FUZES 117
+Line 2: LOT 2017 00/T
+Line 3: IX1O COXTS4
+Line 4: FAD
+Line 5: FUZES 117 MK-20
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'FUZES 117' | Raw: '1OFUzES1171'
+Line 2: Standard: 'LOT 2017 00/T' | Raw: 'LOT201700/T'
+Line 3: Standard: 'IX1O COXTS4' | Raw: 'IX1O COXTS4'
+Line 4: Standard: 'FAD' | Raw: 'FA,13.'
+Line 5: Standard: 'FUZES 117 MK-20' | Raw: 'FUZES11/ YK-20'

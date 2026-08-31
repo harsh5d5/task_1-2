@@ -1,0 +1,54 @@
+{
+  "image_file": "img05_raw.jpg",
+  "total_lines": 4,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "B0)XN()- 107",
+      "raw_detected": "B0)XN()- 107",
+      "box_2d": [
+        144,
+        452,
+        181,
+        730
+      ],
+      "confidence": 0.851
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "UNIV OFBL FROM",
+      "raw_detected": "UXIV OFBL FROM",
+      "box_2d": [
+        176,
+        451,
+        309,
+        613
+      ],
+      "confidence": 0.846
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "10 FUZES 117",
+      "raw_detected": "ug117 FUZE 11 7",
+      "box_2d": [
+        451,
+        405,
+        787,
+        648
+      ],
+      "confidence": 0.685
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "VNASSKG-18.70 CAD PULGAON COMMA NDANT",
+      "raw_detected": "\u039bVNASSKG-18.70 CADPULGAON COMMA NDANT",
+      "box_2d": [
+        909,
+        312,
+        1180,
+        754
+      ],
+      "confidence": 0.894
+    }
+  ]
+}

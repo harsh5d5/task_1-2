@@ -1,0 +1,66 @@
+{
+  "image_file": "img09_raw.jpg",
+  "total_lines": 5,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "08 NOS",
+      "raw_detected": "08 X0S",
+      "box_2d": [
+        679,
+        527,
+        723,
+        730
+      ],
+      "confidence": 0.729
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "FUZE A/R MINE A/T",
+      "raw_detected": "FUZE A/R MINEA/T",
+      "box_2d": [
+        728,
+        400,
+        777,
+        917
+      ],
+      "confidence": 0.88
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "2B/L ND",
+      "raw_detected": "2B/L XI)",
+      "box_2d": [
+        779,
+        530,
+        826,
+        744
+      ],
+      "confidence": 0.828
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "2025 12/SU 43C/BL",
+      "raw_detected": "2025 12/SU 43C/BL",
+      "box_2d": [
+        843,
+        387,
+        896,
+        935
+      ],
+      "confidence": 0.855
+    },
+    {
+      "line_number": 5,
+      "standardized_text": "IN 08 7A BOXES",
+      "raw_detected": "IN08 7A B0XFS",
+      "box_2d": [
+        923,
+        402,
+        978,
+        842
+      ],
+      "confidence": 0.776
+    }
+  ]
+}

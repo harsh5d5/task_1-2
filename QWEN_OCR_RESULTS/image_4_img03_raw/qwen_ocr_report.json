@@ -1,0 +1,42 @@
+{
+  "image_file": "img03_raw.jpg",
+  "total_lines": 3,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "FAD",
+      "raw_detected": "FAD",
+      "box_2d": [
+        430,
+        687,
+        487,
+        805
+      ],
+      "confidence": 0.71
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "10 FUZES 117",
+      "raw_detected": "10 FUZESI1 7",
+      "box_2d": [
+        502,
+        600,
+        545,
+        863
+      ],
+      "confidence": 0.77
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "MK-20",
+      "raw_detected": "M1K-20",
+      "box_2d": [
+        550,
+        655,
+        585,
+        790
+      ],
+      "confidence": 0.846
+    }
+  ]
+}

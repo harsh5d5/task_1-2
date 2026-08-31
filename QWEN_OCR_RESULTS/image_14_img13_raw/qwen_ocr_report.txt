@@ -1,0 +1,21 @@
+Military Stencil OCR Report: img13_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: 10-ONX08I
+Line 3: UNIV OFBL FROM
+Line 4: FUZE 117
+Line 5: TO
+Line 6: APNASS KG-48.70 CAD PULGAON COMMANDANT
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'BOX_TURN TOP' | Raw: 'BOX_TURN /TOP'
+Line 2: Standard: '10-ONX08I' | Raw: '10-ONX08I'
+Line 3: Standard: 'UNIV OFBL FROM' | Raw: 'UNIV OFBL FRON'
+Line 4: Standard: 'FUZE 117' | Raw: 'FUZE I7'
+Line 5: Standard: 'TO' | Raw: 'TO'
+Line 6: Standard: 'APNASS KG-48.70 CAD PULGAON COMMANDANT' | Raw: 'APNASS KG-48.70 CADPULGAON COMMANDANT'

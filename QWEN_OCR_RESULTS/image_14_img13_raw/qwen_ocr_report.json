@@ -1,0 +1,78 @@
+{
+  "image_file": "img13_raw.jpg",
+  "total_lines": 6,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "BOX_TURN TOP",
+      "raw_detected": "BOX_TURN /TOP",
+      "box_2d": [
+        0,
+        0,
+        33,
+        249
+      ],
+      "confidence": 0.963
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "10-ONX08I",
+      "raw_detected": "10-ONX08I",
+      "box_2d": [
+        33,
+        940,
+        79,
+        1153
+      ],
+      "confidence": 0.65
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "UNIV OFBL FROM",
+      "raw_detected": "UNIV OFBL FRON",
+      "box_2d": [
+        109,
+        898,
+        212,
+        1037
+      ],
+      "confidence": 0.842
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "FUZE 117",
+      "raw_detected": "FUZE I7",
+      "box_2d": [
+        335,
+        951,
+        612,
+        1034
+      ],
+      "confidence": 0.839
+    },
+    {
+      "line_number": 5,
+      "standardized_text": "TO",
+      "raw_detected": "TO",
+      "box_2d": [
+        730,
+        931,
+        761,
+        949
+      ],
+      "confidence": 0.721
+    },
+    {
+      "line_number": 6,
+      "standardized_text": "APNASS KG-48.70 CAD PULGAON COMMANDANT",
+      "raw_detected": "APNASS KG-48.70 CADPULGAON COMMANDANT",
+      "box_2d": [
+        719,
+        697,
+        937,
+        1073
+      ],
+      "confidence": 0.878
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Military Stencil OCR Report: img11_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: OFE 2025 AINN
+Line 3: 161.10
+Line 4: CAD PULGAON
+Line 5: COMMANDANT TO FUZE 117 BOX NO-0
+Line 6: SSVNAV
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'BOX_TURN TOP' | Raw: 'BOX_TURN TOP'
+Line 2: Standard: 'OFE 2025 AINN' | Raw: 'OFE 2025 AINN'
+Line 3: Standard: '161.10' | Raw: '161.10'
+Line 4: Standard: 'CAD PULGAON' | Raw: 'CADPULGAON (0)'
+Line 5: Standard: 'COMMANDANT TO FUZE 117 BOX NO-0' | Raw: 'COMMANDANT TO FUZE I17 BOXNO-0'
+Line 6: Standard: 'SSVNAV' | Raw: 'SSVNAV'

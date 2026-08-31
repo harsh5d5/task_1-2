@@ -1,0 +1,17 @@
+Military Stencil OCR Report: img05_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: B0)XN()- 107
+Line 2: UNIV OFBL FROM
+Line 3: 10 FUZES 117
+Line 4: VNASSKG-18.70 CAD PULGAON COMMA NDANT
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'B0)XN()- 107' | Raw: 'B0)XN()- 107'
+Line 2: Standard: 'UNIV OFBL FROM' | Raw: 'UXIV OFBL FROM'
+Line 3: Standard: '10 FUZES 117' | Raw: 'ug117 FUZE 11 7'
+Line 4: Standard: 'VNASSKG-18.70 CAD PULGAON COMMA NDANT' | Raw: 'ΛVNASSKG-18.70 CADPULGAON COMMA NDANT'

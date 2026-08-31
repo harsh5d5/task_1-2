@@ -1,0 +1,21 @@
+Military Stencil OCR Report: img10_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: 1O-ONXOEI
+Line 3: UNIV CGM FROM
+Line 4: FUZE 117
+Line 5: TO
+Line 6: AYNASS KG-IB.70 CAD PULGAON COMMANDANT
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'BOX_TURN TOP' | Raw: 'BOX TURN TOP'
+Line 2: Standard: '1O-ONXOEI' | Raw: '1O-ONXOEI'
+Line 3: Standard: 'UNIV CGM FROM' | Raw: 'UNIV CGM FRO:I'
+Line 4: Standard: 'FUZE 117' | Raw: 'FUZE I17'
+Line 5: Standard: 'TO' | Raw: 'TO'
+Line 6: Standard: 'AYNASS KG-IB.70 CAD PULGAON COMMANDANT' | Raw: 'AYNASS KG-IB.70 CADPULGAON COMMANDANT'

@@ -1,0 +1,178 @@
+[
+  {
+    "image": "img01_fuze_box.jpg",
+    "folder": "image_1_img01_fuze_box",
+    "lines_count": 5,
+    "lines": [
+      "08 NOS",
+      "FUZE A/R MINE A/T",
+      "2B/L ND",
+      "2025 12/SU 43C/BL",
+      "IN 08 7A BOXES"
+    ],
+    "elapsed_sec": 4.19
+  },
+  {
+    "image": "img01_raw.jpg",
+    "folder": "image_2_img01_raw",
+    "lines_count": 5,
+    "lines": [
+      "08 NOS",
+      "FUZE A/R MINE A/T",
+      "2B/L ND",
+      "2025 12/SU 43C/BL",
+      "IN 08 7A BOXES"
+    ],
+    "elapsed_sec": 3.05
+  },
+  {
+    "image": "img02_raw.jpg",
+    "folder": "image_3_img02_raw",
+    "lines_count": 3,
+    "lines": [
+      "FUZE 117 MK-20",
+      "FILLED",
+      "FAD"
+    ],
+    "elapsed_sec": 3.21
+  },
+  {
+    "image": "img03_raw.jpg",
+    "folder": "image_4_img03_raw",
+    "lines_count": 3,
+    "lines": [
+      "FAD",
+      "10 FUZES 117",
+      "MK-20"
+    ],
+    "elapsed_sec": 3.09
+  },
+  {
+    "image": "img04_raw.jpg",
+    "folder": "image_5_img04_raw",
+    "lines_count": 5,
+    "lines": [
+      "FUZES 117",
+      "LOT 2017 00/T",
+      "IX1O COXTS4",
+      "FAD",
+      "FUZES 117 MK-20"
+    ],
+    "elapsed_sec": 2.84
+  },
+  {
+    "image": "img05_raw.jpg",
+    "folder": "image_6_img05_raw",
+    "lines_count": 4,
+    "lines": [
+      "B0)XN()- 107",
+      "UNIV OFBL FROM",
+      "10 FUZES 117",
+      "VNASSKG-18.70 CAD PULGAON COMMA NDANT"
+    ],
+    "elapsed_sec": 3.88
+  },
+  {
+    "image": "img06_raw.jpg",
+    "folder": "image_7_img06_raw",
+    "lines_count": 3,
+    "lines": [
+      "10 FUZES 117 MK-20",
+      "LOT 2025 11/HPM 16/BL",
+      "IN 10 AMN CONTS 47B"
+    ],
+    "elapsed_sec": 3.45
+  },
+  {
+    "image": "img07_raw.jpg",
+    "folder": "image_8_img07_raw",
+    "lines_count": 3,
+    "lines": [
+      "FUZE 117",
+      "MK-117",
+      "FAD"
+    ],
+    "elapsed_sec": 2.77
+  },
+  {
+    "image": "img08_raw.jpg",
+    "folder": "image_9_img08_raw",
+    "lines_count": 4,
+    "lines": [
+      "10",
+      "FUZE 117 MK-20",
+      "FILLED",
+      "FAD"
+    ],
+    "elapsed_sec": 2.37
+  },
+  {
+    "image": "img09_raw.jpg",
+    "folder": "image_10_img09_raw",
+    "lines_count": 5,
+    "lines": [
+      "08 NOS",
+      "FUZE A/R MINE A/T",
+      "2B/L ND",
+      "2025 12/SU 43C/BL",
+      "IN 08 7A BOXES"
+    ],
+    "elapsed_sec": 3.56
+  },
+  {
+    "image": "img10_raw.jpg",
+    "folder": "image_11_img10_raw",
+    "lines_count": 6,
+    "lines": [
+      "BOX_TURN TOP",
+      "1O-ONXOEI",
+      "UNIV CGM FROM",
+      "FUZE 117",
+      "TO",
+      "AYNASS KG-IB.70 CAD PULGAON COMMANDANT"
+    ],
+    "elapsed_sec": 4.4
+  },
+  {
+    "image": "img11_raw.jpg",
+    "folder": "image_12_img11_raw",
+    "lines_count": 6,
+    "lines": [
+      "BOX_TURN TOP",
+      "OFE 2025 AINN",
+      "161.10",
+      "CAD PULGAON",
+      "COMMANDANT TO FUZE 117 BOX NO-0",
+      "SSVNAV"
+    ],
+    "elapsed_sec": 3.53
+  },
+  {
+    "image": "img12_raw.jpg",
+    "folder": "image_13_img12_raw",
+    "lines_count": 6,
+    "lines": [
+      "BOX_TURN TOP",
+      "10-Ox x081",
+      "UNIV 161.10 CGM FROM",
+      "FUZE 117",
+      "T()",
+      "AV MASS KG-18.70 CAD PULGAON COMMANDANT"
+    ],
+    "elapsed_sec": 4.05
+  },
+  {
+    "image": "img13_raw.jpg",
+    "folder": "image_14_img13_raw",
+    "lines_count": 6,
+    "lines": [
+      "BOX_TURN TOP",
+      "10-ONX08I",
+      "UNIV OFBL FROM",
+      "FUZE 117",
+      "TO",
+      "APNASS KG-48.70 CAD PULGAON COMMANDANT"
+    ],
+    "elapsed_sec": 17.75
+  }
+]

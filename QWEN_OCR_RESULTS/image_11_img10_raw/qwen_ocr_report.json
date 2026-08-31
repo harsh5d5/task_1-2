@@ -1,0 +1,78 @@
+{
+  "image_file": "img10_raw.jpg",
+  "total_lines": 6,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "BOX_TURN TOP",
+      "raw_detected": "BOX TURN TOP",
+      "box_2d": [
+        0,
+        1,
+        33,
+        249
+      ],
+      "confidence": 0.95
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "1O-ONXOEI",
+      "raw_detected": "1O-ONXOEI",
+      "box_2d": [
+        100,
+        947,
+        134,
+        1146
+      ],
+      "confidence": 0.717
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "UNIV CGM FROM",
+      "raw_detected": "UNIV CGM FRO:I",
+      "box_2d": [
+        172,
+        912,
+        267,
+        1041
+      ],
+      "confidence": 0.731
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "FUZE 117",
+      "raw_detected": "FUZE I17",
+      "box_2d": [
+        383,
+        977,
+        640,
+        1043
+      ],
+      "confidence": 0.784
+    },
+    {
+      "line_number": 5,
+      "standardized_text": "TO",
+      "raw_detected": "TO",
+      "box_2d": [
+        751,
+        960,
+        787,
+        980
+      ],
+      "confidence": 0.693
+    },
+    {
+      "line_number": 6,
+      "standardized_text": "AYNASS KG-IB.70 CAD PULGAON COMMANDANT",
+      "raw_detected": "AYNASS KG-IB.70 CADPULGAON COMMANDANT",
+      "box_2d": [
+        743,
+        745,
+        942,
+        1098
+      ],
+      "confidence": 0.915
+    }
+  ]
+}

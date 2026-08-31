@@ -1,0 +1,15 @@
+Military Stencil OCR Report: img07_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: FUZE 117
+Line 2: MK-117
+Line 3: FAD
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'FUZE 117' | Raw: 'FUZE 117'
+Line 2: Standard: 'MK-117' | Raw: '平117'
+Line 3: Standard: 'FAD' | Raw: 'FAD'

@@ -1,0 +1,78 @@
+{
+  "image_file": "img12_raw.jpg",
+  "total_lines": 6,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "BOX_TURN TOP",
+      "raw_detected": "BOX_TURN /TOP",
+      "box_2d": [
+        0,
+        0,
+        33,
+        249
+      ],
+      "confidence": 0.942
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "10-Ox x081",
+      "raw_detected": "10-Ox x081",
+      "box_2d": [
+        22,
+        904,
+        72,
+        1121
+      ],
+      "confidence": 0.662
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "UNIV 161.10 CGM FROM",
+      "raw_detected": "UNIV 161.10 CGM FRON",
+      "box_2d": [
+        112,
+        878,
+        209,
+        1010
+      ],
+      "confidence": 0.841
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "FUZE 117",
+      "raw_detected": "7 FUZE I7",
+      "box_2d": [
+        329,
+        813,
+        615,
+        1022
+      ],
+      "confidence": 0.715
+    },
+    {
+      "line_number": 5,
+      "standardized_text": "T()",
+      "raw_detected": "T()",
+      "box_2d": [
+        727,
+        953,
+        760,
+        971
+      ],
+      "confidence": 0.952
+    },
+    {
+      "line_number": 6,
+      "standardized_text": "AV MASS KG-18.70 CAD PULGAON COMMANDANT",
+      "raw_detected": "AVNASS KG-IB.70 CADPULGAON COMMANDANT",
+      "box_2d": [
+        719,
+        731,
+        924,
+        1104
+      ],
+      "confidence": 0.918
+    }
+  ]
+}

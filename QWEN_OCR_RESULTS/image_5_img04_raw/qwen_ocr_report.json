@@ -1,0 +1,66 @@
+{
+  "image_file": "img04_raw.jpg",
+  "total_lines": 5,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "FUZES 117",
+      "raw_detected": "1OFUzES1171",
+      "box_2d": [
+        295,
+        1141,
+        322,
+        1277
+      ],
+      "confidence": 0.564
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "LOT 2017 00/T",
+      "raw_detected": "LOT201700/T",
+      "box_2d": [
+        316,
+        1138,
+        340,
+        1278
+      ],
+      "confidence": 0.86
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "IX1O COXTS4",
+      "raw_detected": "IX1O COXTS4",
+      "box_2d": [
+        334,
+        1138,
+        361,
+        1279
+      ],
+      "confidence": 0.851
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "FAD",
+      "raw_detected": "FA,13.",
+      "box_2d": [
+        457,
+        628,
+        510,
+        733
+      ],
+      "confidence": 0.778
+    },
+    {
+      "line_number": 5,
+      "standardized_text": "FUZES 117 MK-20",
+      "raw_detected": "FUZES11/ YK-20",
+      "box_2d": [
+        522,
+        539,
+        580,
+        794
+      ],
+      "confidence": 0.869
+    }
+  ]
+}

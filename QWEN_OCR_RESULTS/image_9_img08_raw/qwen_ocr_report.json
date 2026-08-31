@@ -1,0 +1,54 @@
+{
+  "image_file": "img08_raw.jpg",
+  "total_lines": 4,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "10",
+      "raw_detected": "10",
+      "box_2d": [
+        388,
+        1260,
+        404,
+        1279
+      ],
+      "confidence": 0.526
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "FUZE 117 MK-20",
+      "raw_detected": "FUZE117MK20 L0 IN",
+      "box_2d": [
+        391,
+        533,
+        462,
+        1279
+      ],
+      "confidence": 0.82
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "FILLED",
+      "raw_detected": "FU.LED",
+      "box_2d": [
+        447,
+        606,
+        512,
+        772
+      ],
+      "confidence": 0.912
+    },
+    {
+      "line_number": 4,
+      "standardized_text": "FAD",
+      "raw_detected": "FAH.",
+      "box_2d": [
+        535,
+        374,
+        570,
+        453
+      ],
+      "confidence": 0.64
+    }
+  ]
+}

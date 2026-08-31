@@ -1,0 +1,42 @@
+{
+  "image_file": "img06_raw.jpg",
+  "total_lines": 3,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "10 FUZES 117 MK-20",
+      "raw_detected": "10 FUZS 117 MK-20",
+      "box_2d": [
+        397,
+        443,
+        440,
+        850
+      ],
+      "confidence": 0.711
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "LOT 2025 11/HPM 16/BL",
+      "raw_detected": "L0T 2025II/HPM IG/BL",
+      "box_2d": [
+        433,
+        438,
+        479,
+        917
+      ],
+      "confidence": 0.911
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "IN 10 AMN CONTS 47B",
+      "raw_detected": "IN 1O AMN CONTS 47B",
+      "box_2d": [
+        474,
+        450,
+        515,
+        865
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

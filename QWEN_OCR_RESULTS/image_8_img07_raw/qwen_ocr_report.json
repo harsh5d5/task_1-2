@@ -1,0 +1,42 @@
+{
+  "image_file": "img07_raw.jpg",
+  "total_lines": 3,
+  "lines": [
+    {
+      "line_number": 1,
+      "standardized_text": "FUZE 117",
+      "raw_detected": "FUZE 117",
+      "box_2d": [
+        293,
+        483,
+        391,
+        852
+      ],
+      "confidence": 0.931
+    },
+    {
+      "line_number": 2,
+      "standardized_text": "MK-117",
+      "raw_detected": "\u5e73117",
+      "box_2d": [
+        386,
+        539,
+        482,
+        810
+      ],
+      "confidence": 0.609
+    },
+    {
+      "line_number": 3,
+      "standardized_text": "FAD",
+      "raw_detected": "FAD",
+      "box_2d": [
+        535,
+        333,
+        575,
+        415
+      ],
+      "confidence": 0.957
+    }
+  ]
+}

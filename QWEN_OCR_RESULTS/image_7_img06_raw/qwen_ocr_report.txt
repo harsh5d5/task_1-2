@@ -1,0 +1,15 @@
+Military Stencil OCR Report: img06_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: 10 FUZES 117 MK-20
+Line 2: LOT 2025 11/HPM 16/BL
+Line 3: IN 10 AMN CONTS 47B
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: '10 FUZES 117 MK-20' | Raw: '10 FUZS 117 MK-20'
+Line 2: Standard: 'LOT 2025 11/HPM 16/BL' | Raw: 'L0T 2025II/HPM IG/BL'
+Line 3: Standard: 'IN 10 AMN CONTS 47B' | Raw: 'IN 1O AMN CONTS 47B'

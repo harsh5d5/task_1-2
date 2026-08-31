@@ -1,0 +1,21 @@
+Military Stencil OCR Report: img12_raw.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: BOX_TURN TOP
+Line 2: 10-Ox x081
+Line 3: UNIV 161.10 CGM FROM
+Line 4: FUZE 117
+Line 5: T()
+Line 6: AV MASS KG-18.70 CAD PULGAON COMMANDANT
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: 'BOX_TURN TOP' | Raw: 'BOX_TURN /TOP'
+Line 2: Standard: '10-Ox x081' | Raw: '10-Ox x081'
+Line 3: Standard: 'UNIV 161.10 CGM FROM' | Raw: 'UNIV 161.10 CGM FRON'
+Line 4: Standard: 'FUZE 117' | Raw: '7 FUZE I7'
+Line 5: Standard: 'T()' | Raw: 'T()'
+Line 6: Standard: 'AV MASS KG-18.70 CAD PULGAON COMMANDANT' | Raw: 'AVNASS KG-IB.70 CADPULGAON COMMANDANT'

@@ -1,0 +1,19 @@
+Military Stencil OCR Report: img01_fuze_box.jpg
+============================================================
+
+[STANDARDIZED NOMENCLATURE (TOP-TO-BOTTOM)]:
+--------------------------------------------------
+Line 1: 08 NOS
+Line 2: FUZE A/R MINE A/T
+Line 3: 2B/L ND
+Line 4: 2025 12/SU 43C/BL
+Line 5: IN 08 7A BOXES
+
+============================================================
+[RAW RECOGNITION BREAKDOWN]:
+--------------------------------------------------
+Line 1: Standard: '08 NOS' | Raw: '08 X0S'
+Line 2: Standard: 'FUZE A/R MINE A/T' | Raw: 'FUZE A/R MINEA/T'
+Line 3: Standard: '2B/L ND' | Raw: '2B/L XI)'
+Line 4: Standard: '2025 12/SU 43C/BL' | Raw: '2025 12/SU 43C/BL'
+Line 5: Standard: 'IN 08 7A BOXES' | Raw: 'IN 08 7A B0XES'
